@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/kidspdf/static/css/main.ccf81a74.css",
+    "main.js": "/kidspdf/static/js/main.5d2b77ab.js",
+    "static/js/213.cc43d436.chunk.js": "/kidspdf/static/js/213.cc43d436.chunk.js",
+    "static/js/455.bbe4331e.chunk.js": "/kidspdf/static/js/455.bbe4331e.chunk.js",
+    "index.html": "/kidspdf/index.html",
+    "main.ccf81a74.css.map": "/kidspdf/static/css/main.ccf81a74.css.map",
+    "main.5d2b77ab.js.map": "/kidspdf/static/js/main.5d2b77ab.js.map",
+    "213.cc43d436.chunk.js.map": "/kidspdf/static/js/213.cc43d436.chunk.js.map",
+    "455.bbe4331e.chunk.js.map": "/kidspdf/static/js/455.bbe4331e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccf81a74.css",
+    "static/js/main.5d2b77ab.js"
+  ]
+}
