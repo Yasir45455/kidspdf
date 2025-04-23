@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/kidspdf/static/css/main.ccf81a74.css",
-    "main.js": "/kidspdf/static/js/main.5d2b77ab.js",
+    "main.css": "/kidspdf/static/css/main.d4b696e0.css",
+    "main.js": "/kidspdf/static/js/main.ce2b00a4.js",
     "static/js/213.cc43d436.chunk.js": "/kidspdf/static/js/213.cc43d436.chunk.js",
     "static/js/455.bbe4331e.chunk.js": "/kidspdf/static/js/455.bbe4331e.chunk.js",
+    "static/media/book.jpg": "/kidspdf/static/media/book.5e331b53f5f452dd1e56.jpg",
+    "static/media/pencil.jpg": "/kidspdf/static/media/pencil.db3b2e5c5ec706898b16.jpg",
     "index.html": "/kidspdf/index.html",
-    "main.ccf81a74.css.map": "/kidspdf/static/css/main.ccf81a74.css.map",
-    "main.5d2b77ab.js.map": "/kidspdf/static/js/main.5d2b77ab.js.map",
+    "main.d4b696e0.css.map": "/kidspdf/static/css/main.d4b696e0.css.map",
+    "main.ce2b00a4.js.map": "/kidspdf/static/js/main.ce2b00a4.js.map",
     "213.cc43d436.chunk.js.map": "/kidspdf/static/js/213.cc43d436.chunk.js.map",
     "455.bbe4331e.chunk.js.map": "/kidspdf/static/js/455.bbe4331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf81a74.css",
-    "static/js/main.5d2b77ab.js"
+    "static/css/main.d4b696e0.css",
+    "static/js/main.ce2b00a4.js"
   ]
 }
