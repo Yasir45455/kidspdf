@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kidspdf/static/css/main.d8818966.css",
+    "main.css": "/kidspdf/static/css/main.bae28dd9.css",
     "main.js": "/kidspdf/static/js/main.5e7ee311.js",
     "static/js/213.cc43d436.chunk.js": "/kidspdf/static/js/213.cc43d436.chunk.js",
     "static/js/455.bbe4331e.chunk.js": "/kidspdf/static/js/455.bbe4331e.chunk.js",
@@ -8,13 +8,13 @@
     "static/media/pencil.png": "/kidspdf/static/media/pencil.929045ed4b9b5db30e74.png",
     "static/media/book.png": "/kidspdf/static/media/book.5b47939dd3c22c88c2cf.png",
     "index.html": "/kidspdf/index.html",
-    "main.d8818966.css.map": "/kidspdf/static/css/main.d8818966.css.map",
+    "main.bae28dd9.css.map": "/kidspdf/static/css/main.bae28dd9.css.map",
     "main.5e7ee311.js.map": "/kidspdf/static/js/main.5e7ee311.js.map",
     "213.cc43d436.chunk.js.map": "/kidspdf/static/js/213.cc43d436.chunk.js.map",
     "455.bbe4331e.chunk.js.map": "/kidspdf/static/js/455.bbe4331e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8818966.css",
+    "static/css/main.bae28dd9.css",
     "static/js/main.5e7ee311.js"
   ]
 }
